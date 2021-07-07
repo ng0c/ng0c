@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩🏻‍💻 I’m currently working on Pom Farm - a productivity app (more details coming soon)
+- 👩🏻‍💻 I’m currently working on [Pom Farm](https://github.com/ng0c/PomFarm) - a productivity app
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about anything [here](mailto:anitatnguyen@outlook.com)
 
